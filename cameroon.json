@@ -1,0 +1,42 @@
+{   "code": "CM",
+    "dial_code": "237",
+    "regions": [
+        {
+            "name": "South West",
+            "code": "SW",
+            "headquarter": "Buea",
+            "divisions": [
+                {
+                    "name": "Fako",
+                    "headquarter": "Limbe",
+                    "subdivisions": ["Buea", "Limbe 1", "Limbe 2", "Limbe 3", "Muyuka", "Tiko", "West Coast"]
+                },
+                {
+                    "name": "Koupé-Manengouba",
+                    "headquarter": "Bangem",
+                    "subdivisions": ["Bangem", "Tombel", "Nguti"]
+                },
+                {
+                    "name": "Lebialem",
+                    "headquarter": "Menji",
+                    "subdivisions": ["Menji", "Alou", "Wabane"]
+                },
+                {
+                    "name": "Manyu",
+                    "headquarter": "Mamfe",
+                    "subdivisions": ["Akwaya", "Eyumojock", "Upper Bayang", "Mamfe central"]
+                },
+                {
+                    "name": "Meme",
+                    "headquarter": "Kumba",
+                    "subdivisions": ["Konye", "Kumba", "Mbonge", "Meme"]
+                },
+                {
+                    "name": "Ndian",
+                    "headquarter": "Mundemba",
+                    "subdivisions": ["Bamuso", "Dikome-Balue", "Ekondo-Titi", "Idabato", "Isanguele", "Kombo-Abedimo", "Kombo-Idinti", "Mundemba", "Toko"]
+                }
+            ]
+        }
+    ]
+}
