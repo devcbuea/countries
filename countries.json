@@ -244,7 +244,9 @@
     { "name": "Western Sahara", "code": "EH" },
     { "name": "Yemen", "code": "YE" },
     { "name": "Zambia", "code": "ZM" },
-    { "name": "Zimbabwe", "code": "ZW" }],
+    { "name": "Zimbabwe", "code": "ZW" },
+    { "name": "USA", "code": "US"},
+    { "name": "UK", "code": "GB"}],
   "fr": [
       {"name": "Afghanistan", "code": "AF"},
       {"name": "Afrique Du Sud", "code":"ZA"},
@@ -494,6 +496,8 @@
       {"name": "Wallis Et Futuna", "code": "WF"},
       {"name": "Yémen", "code": "YE"},
       {"name": "Zambie", "code": "ZM"},
-      {"name": "Zimbabwe", "code": "ZW"}
+      {"name": "Zimbabwe", "code": "ZW"},
+      { "name": "USA", "code": "US"},
+      {"name": "UK", "code": "GB"}
   ]
 }
