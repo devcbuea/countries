@@ -2,7 +2,7 @@
 
 Find in this project a JSON file allowing to list the different countries of the world (name and code) in French and in English. And another file listing the different regions of Cameroon and their administrative departments.
 
-# Comment contribuer ? 
+# How to contribute ? 
 
 Thank you for your interest in the project. You can contribute by completing the various Json files.
 
