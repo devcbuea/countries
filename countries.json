@@ -6,7 +6,7 @@
     { "name": "Albania", "code": "AL" },
     { "name": "Algeria", "code": "DZ" },
     { "name": "American Samoa", "code": "AS" },
-    { "name": "AndorrA", "code": "AD" },
+    { "name": "Andorra", "code": "AD" },
     { "name": "Angola", "code": "AO" },
     { "name": "Anguilla", "code": "AI" },
     { "name": "Antarctica", "code": "AQ" },
@@ -241,6 +241,7 @@
     { "name": "Virgin Islands, British", "code": "VG" },
     { "name": "Virgin Islands, U.S.", "code": "VI" },
     { "name": "Wallis and Futuna", "code": "WF" },
+    { "name": "Wales", "code": "GBR" },
     { "name": "Western Sahara", "code": "EH" },
     { "name": "Yemen", "code": "YE" },
     { "name": "Zambia", "code": "ZM" },
@@ -426,6 +427,7 @@
       {"name": "Papouasie-Nouvelle-Guinée", "code": "PG"},
       {"name": "Paraguay", "code": "PY"},
       {"name": "Pays-Bas", "code": "NL"},
+      {"name": "Pays de Galles", "code": "GBR"},
       {"name": "Pérou", "code": "PE"},
       {"name": "Philippines", "code": "PH"},
       {"name": "Pitcairn", "code": "PN"},
@@ -497,7 +499,7 @@
       {"name": "Yémen", "code": "YE"},
       {"name": "Zambie", "code": "ZM"},
       {"name": "Zimbabwe", "code": "ZW"},
-      { "name": "USA", "code": "US"},
+      {"name": "USA", "code": "US"},
       {"name": "UK", "code": "GB"}
   ]
 }
