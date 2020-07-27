@@ -246,7 +246,8 @@
     { "name": "Zambia", "code": "ZM" },
     { "name": "Zimbabwe", "code": "ZW" },
     { "name": "USA", "code": "US"},
-    { "name": "UK", "code": "GB"}],
+    { "name": "UK", "code": "GB"},
+    { "name": "Republic of South Ossetia", "code": "GE"}],
   "fr": [
       {"name": "Afghanistan", "code": "AF"},
       {"name": "Afrique Du Sud", "code":"ZA"},
