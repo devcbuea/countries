@@ -404,12 +404,14 @@
                 },
                 {
                     "name": "Wouri",
-                    "headquarter": "",
+                    "headquarter": "Douala",
                     "subdivisions": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Douala I (Bonanjo)",
+                        "Douala II (New Bell)",
+                        "Douala III (Logbaba)",
+                        "Douala IV (Bonassama)",
+                        "Douala V (Kotto)",
+                        "Douala VI (Manoka)"
                     ]
                 }
             ]
