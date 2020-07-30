@@ -1,714 +1,790 @@
-{ "code": "CM",
-
-
+{
+    "code": "CM",
     "dial_code": "237",
-    
     "regions": [
-    
-    {
-    
-    "name": "Adamawa",
-    
-    "code": "AD",
-    
-    "headquarter": "Ngaoundere",
-    
-    "divisions": [
-    
-    {
-    
-    "name": "Djerem",
-    
-    "headquarter": "Tibati",
-    
-    "subdivisions": ["Tibati", "Nguaoundal"]
-    
-    },
-    
-    {
-    
-    "name": "Faro-et-Déo",
-    
-    "headquarter": "Tignère",
-    
-    "subdivisions": ["Mayo-Baléo ", "Galim-Tignère", "Tignère","Kontcha"]
-    
-    },
-    
-    {
-    
-    "name": "Mayo-Banyo",
-    
-    "headquarter": "Banyo",
-    
-    "subdivisions": ["", "", "", ""]
-    
-    },
-    
-    {
-    
-    "name": "Mbéré",
-    
-    "headquarter": "meiganga",
-    
-    "subdivisions": ["", "", "", ""]
-    
-    },
-    
-    {
-    
-    "name": "Vina",
-    
-    "headquarter": "Ngaoundéré",
-    
-    "subdivisions": ["Belel", "Mbe", "Nganha", "Ngaoundéré (urban)","Ngaoundéré (rural)","Nyambaka","Martap"]
-    
-    }
-    
-    ]
-    
-    },
-    
-    {
-    
-        "name": "Centre",
-        
-        "code": "CE",
-        
-        "headquarter": "Yaounde",
-        
-        "divisions": [
-        
         {
-        
-        "name": "Haute-Sanaga",
-        
-        "headquarter": "Nanga-Eboko",
-        
-        "subdivisions": ["Bibey", "Lembe-Yezoum", "Mbandjock", "Minta", "Nanga-Eboko", "Nkoteng", "Nsem"]
-        
-        },
-        
-        {
-        
-        "name": "Lekié",
-        
-        "headquarter": "Monatele",
-        
-        "subdivisions": ["Batchenga", "Ebebda", "Elig-Mfomo","Evodoula","Lobo","Monatélé","Obala","Okola","Sa'a"]
-        
-        },
-        
-        {
-        
-        "name": " Mbam-et-Inoubou",
-        
-        "headquarter": "Bafia",
-        
-        "subdivisions": ["Bafia", "Bokito", "Deuk","Kiiki"," Kon-Yambetta","Makénéné","Ndikiniméki","Nitoukou","Ombessa"]
-        
-        },
-        
-        {
-        
-        "name": "Mbam-et-Kim",
-        
-        "headquarter": "Ntui",
-        
-        "subdivisions": ["Mbangassina","Ngambè-Tikar","Ngoro", "Ntui","Yoko"]
-        
-        },
-        
-        {
-        
-        "name": "Méfou-et-Afamba",
-        
-        "headquarter": "Mfou",
-        
-      
-        "subdivisions": ["Afanloum","Awaé","Edzendouan","Esse","Mfou","Nkolafamba","Olanguina","Soa"]
-        
-        },
-        
-        {
-        
-        "name": "Méfou-et-Akono",
-        
-        "headquarter": "Ngoumou",
-        
-        "subdivisions": ["Akono","Bikok","Mbankomo","Ngoumou"]
-        
-        },
-        {
-        
-            "name": "Mfoundi",
-            
-            "headquarter": "Yaounde",
-            
-            "subdivisions": ["", "", "", "", "", "", "", "", ""]
-            
-            },
-            {
-        
-                "name": "Nyong-et-Kéllé",
-                
-                "headquarter": "Éséka",
-                
-                "subdivisions": ["Biyouha", " Bondjock","Bot-Makak","Dibang", "Éséka","Makak","Matomb","Messondo","Ngog-Mapubi","Ngui-Bassal"]
-                
-                },   
-                {
-        
-                    "name": "Nyong-et-Mfoumou",
-                    
-                    "headquarter": "Akonolinga",
-                    
-                    "subdivisions": ["Akonolinga","Ayos"," Endom","Kobdombo"," Mengang"]
-                    
-                    },
-                    {
-        
-                        "name": "Nyong-et-So'o",
-                        
-                        "headquarter": "Mbalmayo",
-                        
-                        "subdivisions": ["Akoeman","Dzeng","Mbalmayo", "Mengueme","Ngomedzap","Nkolmetet"]
-                        
-                        }
-                                           
-        
-        ]
-        
-        },
-        {
-    
-            "name": "East",
-            
-            "code": "E",
-            
-            "headquarter": "Bertoua",
-            
+            "name": "Adamawa",
+            "code": "AD",
+            "headquarter": "Ngaoundere",
             "divisions": [
-            
-            {
-            
-            "name": "Boumba-et-Ngoko",
-            
-            "headquarter": "Yokadouma",
-            
-            "subdivisions": ["Gari-Gombo","Moloundou","Salapoumbé","Yokadouma"]
-            
-            },
-            
-            {
-            
-            "name": "Haut-Nyong",
-            
-            "headquarter": "Abong-Mbang",
-            
-            "subdivisions": ["Abong-Mbang","Angossas","Atok","Dimako","Doumaintang","Doumé","Lomié","Mboma","Messamena","Messok","Mindourou","Ngoyla","Nguelemendouka","Somalomo"]
-            
-            },
-            
-            {
-            
-            "name": "Kadey",
-            
-            "headquarter": "Batouri",
-            
-            "subdivisions": ["Batouri","Kentzou","Kette","Mbang","Ndelele","Nguelebok","Ouli"]
-            
-            },
-            
-            {
-            
-            "name": "Lom-et-Djerem",
-            
-            "headquarter": "Bertoua",
-            
-            "subdivisions": ["Bélabo","Bertoua","Bétaré-Oya","Diang","Garoua-Boulaï","Mandjou","Ngoura"]
-            
-            }
-            
-            
-            ]
-            
-            },
-            {
-    
-                "name": "Far North",
-                
-                "code": "FN",
-                
-                "headquarter": "Maroua",
-                
-                "divisions": [
-                
                 {
-                
-                "name": "Diamaré",
-                
-                "headquarter": "Maroua",
-                
-                "subdivisions": ["Bogo","Dargala","Gawaza","Maroua (urban)","Maroua (rural)","Meri","Ndoukoula","Petté"]
-                
-                },
-                
-                {
-                
-                "name": "Logone-et-Chari",
-                
-                "headquarter": "Kousseri",
-                
-                "subdivisions": ["Blangoua","Darak","Fotokol","Goulfey","Hile-Alifa","Kousséri","Logone-Birni","Makary","Waza","Zina"]
-                
-                },
-                
-                {
-                
-                "name": "Mayo-Danay",
-                
-                "headquarter": "Yagoua",
-                
-                "subdivisions": [" Datcheka","Gobo","Gueme","Guere","Kai-Kai","Kalfou","Kay-Hay","Maga","Tchati-Bali","Wina","Yagoua"]
-                
-                },
-                
-                {
-                
-                "name": "Mayo-Kani",
-                
-                "headquarter": "Kaélé",
-                
-                "subdivisions": ["Dziguilao","Guidiguis","Kaélé","Mindif","Moulvoudaye","Moutourwa","Touloum"]
-                
-                },
-                {
-                
-                    "name": "Mayo-Sava",
-                    
-                    "headquarter": "Mora",
-                    
-                    "subdivisions": ["Kolofata","Mora","Tokombéré"]
-                    
-                    },
-                    {
-                
-                        "name": "Mayo-Tsanaga",
-                        
-                        "headquarter": "Mokolo",
-                        
-                        "subdivisions": ["Bourrha","Hina","Koza","Mogodé","Mokolo","Mozogo","Souledé-roua"]
-                        
-                        }   
-                     
-                
-                
-                ]
-                
-                },
-                {
-    
-                    "name": "Littoral",
-                    
-                    "code": "LI",
-                    
-                    "headquarter": "Douala",
-                    
-                    "divisions": [
-                    
-                    {
-                    
-                    "name": "Moungo",
-                    
-                    "headquarter": "Nkongsamba",
-                    
-                    "subdivisions": ["Baré","Bonaléa","Dibombari","Ebone","Loum","Manjo","Mbanga","Melong","Mombo", "Nkongsamba 1","Nkongsamba 2","Nkongsamba 3","Penja"]
-                    
-                    },
-                    
-                    {
-                    
-                    "name": "Nkam",
-                    
-                    "headquarter": "Yabassi",
-                    
-                    "subdivisions": ["Ndobian","Nkondjock","Yabassi","Yingui"]
-                    
-                    },
-                    
-                    {
-                    
-                    "name": "Sanaga-Maritime",
-                    
-                    "headquarter": "Édéa",
-                    
-                    "subdivisions": ["Dizangué","Dibamba","Édéa (urban)","Édéa (rural)","Massock","Mouanko","Ndom","Ngambe","Ngwei","Nyanon","Pouma"]
-                    
-                    },
-                    
-                    {
-                    
-                    "name": "Wouri",
-                    
-                    "headquarter": "",
-                    
-                    "subdivisions": ["", "", "", ""]
-                    
-                    }
-                    
+                    "name": "Djerem",
+                    "headquarter": "Tibati",
+                    "subdivisions": [
+                        "Tibati",
+                        "Nguaoundal"
                     ]
-                    
-                    },    
-                    {
-    
-                        "name": "North",
-                        
-                        "code": "N",
-                        
-                        "headquarter": "Garoua",
-                        
-                        "divisions": [
-                        
-                        {
-                        
-                        "name": "Bénoué",
-                        
-                        "headquarter": "Garoua",
-                        
-                        "subdivisions": ["Bashéo","Bibemi","Dembo","Garoua (urban)","Garoua (rural)","Gashiga","Lagdo","Mayo Hourna","Ngong","Pitoa","Touroua"]
-                        
-                        },
-                        
-                        {
-                        
-                        "name": "Faro",
-                        
-                        "headquarter": "Poli",
-                        
-                        "subdivisions": ["Beka","Poli (urban)","Poli (rural)"]
-                        
-                        },
-                        
-                        {
-                        
-                        "name": "Mayo-Louti",
-                        
-                        "headquarter": "Guider",
-                        
-                        "subdivisions": ["Figuil","Guider","Mayo-Oulo"]
-                        
-                        },
-                        
-                        {
-                        
-                        "name": "Mayo-Rey",
-                        
-                        "headquarter": "Tcholliré",
-                        
-                        "subdivisions": ["Mandingring","Tcholliré","Touboro","Rey Bouba"]
-                        
-                        }
-                        ]
-                        
-                        },
-                        {
-    
-                            "name": "Northwest",
-                            
-                            "code": "NW",
-                            
-                            "headquarter": "Bamenda",
-                            
-                            "divisions": [
-                            
-                            {
-                            
-                            "name": "Boyo",
-                            
-                            "headquarter": "Fundong",
-                            
-                            "subdivisions": ["Belo","Bum","Fundong","Njinikom"]
-                            
-                            },
-                            
-                            {
-                            
-                            "name": "Bui",
-                            
-                            "headquarter": "Kumbo",
-                            
-                            "subdivisions": ["Elak-Oku","Jakiri","Kumbo (urban)","Kumbo (rural)","Mbiame","Nkum","Nkor"]
-                            
-                            },
-                            
-                            {
-                            
-                            "name": "Donga-Mantung",
-                            
-                            "headquarter": "Nkambé",
-                            
-                            "subdivisions": ["Ako","Misaje","Ndu","Nkambé","Nwa"]
-                            
-                            },
-                            
-                            {
-                            
-                            "name": "Menchum",
-                            
-                            "headquarter": "Wum",
-                            
-                            "subdivisions": ["Benakuma","Furu-Awa","Wum","Zhoa"]
-                            
-                            },
-                            
-                            {
-                            
-                            "name": "Mezam",
-                            
-                            "headquarter": "Bamenda",
-                            
-                            "subdivisions": ["Bafut","Bali","Bamenda 1st","Bamenda 2nd","Bamenda 3rd","Santa","Tubah"]
-                            
-                            },
-                            {
-                        
-                                "name": "Momo",
-                            
-                                "headquarter": "Mbengwi",
-                                
-                                "subdivisions": ["Andek","Batibo","Mbengwi","Njikwa","Widikum-Boffe"]
-                                
-                                },
-                                {
-                        
-                                    "name": "Ngo-ketunjia",
-                                
-                                    "headquarter": "Ndop",
-                                    
-                                    "subdivisions": ["Ndop","Balikumbat","Babessi"]
-                                    
-                                    } 
-                            ]
-                            
-                            } ,
-                            {
-    
-                                "name": "South",
-                                
-                                "code": "S",
-                                
-                                "headquarter": "Ebolowa",
-                                
-                                "divisions": [
-                                
-                                {
-                                
-                                "name": "Dja-et-Lobo",
-                                
-                                "headquarter": "Sangmélima ",
-                                
-                                "subdivisions": ["Bengbis","Djoum","Meyomessala","Meyomessi","Mintom","Oveng","Sangmélima (urban)","Sangmélima (rural)","Zoétélé"]
-                                
-                                },
-                                
-                                {
-                                
-                                "name": "Mvila",
-                                
-                                "headquarter": "Ebolowa",
-                                
-                                "subdivisions": ["Biwong-Bane","Biwong-Bulu","Ebolowa (urban)","Ebolowa (rural)","Efoulan","Mengong","Mvangane", "Ngoulemakong"]
-                                
-                                },
-                                
-                                {
-                                
-                                "name": "Océan",
-                                
-                                "headquarter": "Kribi",
-                                
-                                "subdivisions": [" Akom II","Bipindi","Campo","Kribi (urban)","Kribi (rural)","Lokundje","Lolodorf","Mvengue","Niete"]
-                                
-                                },
-                                
-                                {
-                                
-                                "name": "Vallée-du-Ntem",
-                                
-                                "headquarter": "Ambam",
-                                
-                                "subdivisions": ["Ambam", "Ma'an", " Olamze"]
-                                
-                                }
-                                ]
-                                
-                                } ,
-                                {
-    
-                                    "name": "South West",
-                                    
-                                    "code": "SW",
-                                    
-                                    "headquarter": "Buea",
-                                    
-                                    "divisions": [
-                                    
-                                    {
-                                    
-                                    "name": "Fako",
-                                    
-                                    "headquarter": "Limbe",
-                                    
-                                    "subdivisions": ["Buea", "Limbe 1", "Limbe 2", "Limbe 3", "Muyuka", "Tiko", "West Coast"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Koupé-Manengouba",
-                                    
-                                    "headquarter": "Bangem",
-                                    
-                                    "subdivisions": ["Bangem", "Tombel", "Nguti"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Lebialem",
-                                    
-                                    "headquarter": "Menji",
-                                    
-                                    "subdivisions": ["Menji", "Alou", "Wabane"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Manyu",
-                                    
-                                    "headquarter": "Mamfe",
-                                    
-                                    "subdivisions": ["Akwaya", "Eyumojock", "Upper Bayang", "Mamfe central"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Meme",
-                                    
-                                    "headquarter": "Kumba",
-                                    
-                                  
-                                    "subdivisions": ["Konye", "Kumba", "Mbonge", "Meme"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Ndian",
-                                    
-                                    "headquarter": "Mundemba",
-                                    
-                                    "subdivisions": ["Bamuso", "Dikome-Balue", "Ekondo-Titi", "Idabato", "Isanguele", "Kombo-Abedimo", "Kombo-Idinti", "Mundemba", "Toko"]
-                                    
-                                    }
-                                    
-                                    ]
-                                    
-                                    },
-                                {
-    
-                                    "name": "West",
-                                    
-                                    "code": "W",
-                                    
-                                    "headquarter": "Bafoussam",
-                                    
-                                    "divisions": [
-                                    
-                                    {
-                                    
-                                    "name": "Bamboutos",
-                                    
-                                    "headquarter": "Mbouda",
-                                    
-                                    "subdivisions": ["Babadjou","Batcham","Galim","Mbouda"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Haut-Nkam",
-                                    
-                                    "headquarter": "Bafang",
-                                    
-                                    "subdivisions": ["Bana","Bafang (urban)","Bafang (rural)","Bandja","Banka","Kékem","Bakou","Batcheu"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Hauts-Plateaux",
-                                    
-                                    "headquarter": "Baham",
-                                    
-                                    "subdivisions": ["Baham","Bamendjou","Bangou","Batié"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Koung-Khi",
-                                    
-                                    "headquarter": "Bandjoun",
-                                    
-                                    "subdivisions": ["Bayangam","Bandjoun","Demding (or Demdeng","Bandrefam","Batoufam"]
-                                    
-                                    },
-                                    
-                                    {
-                                    
-                                    "name": "Menoua",
-                                    
-                                    "headquarter": "Dschang",
-                                    
-                                    "subdivisions": ["Dschang (urban)","Dschang (rural)","Fokoué","Fongo-Tongo","Nkong-Zem","Penka-Michel","Santchou"]
-                                    
-                                    },
-                                    {
-                                    
-                                        "name": "Mifi",
-                                        
-                                        "headquarter": "Bafoussam",
-                                        
-                                        "subdivisions": ["Bafoussam (Urban)", "Bafoussam (Rural)", "Bamougoum", "Lafé-Baleng"]
-                                        
-                                        },
-                                        {
-                                    
-                                            "name": "Ndé",
-                                            
-                                            "headquarter": "Bangangté",
-                                            
-                                            "subdivisions": ["Bangangté","Bassamba ", "Bazou", "Tonga", "Balengou"]
-                                            
-                                            },
-                                            {
-                                    
-                                                "name": "Noun",
-                                                
-                                                "headquarter": "Foumban",
-                                                
-                                                "subdivisions": ["Bangourain","Foumban (urban)","Foumbot","Kouoptamo","Koutaba","Magba", "Malentouen", "Massangam", "Njimom"]
-                                                
-                                                }     
-                                    ]
-                                    
-                                    }
-
+                },
+                {
+                    "name": "Faro-et-Déo",
+                    "headquarter": "Tignère",
+                    "subdivisions": [
+                        "Mayo-Baléo ",
+                        "Galim-Tignère",
+                        "Tignère",
+                        "Kontcha"
+                    ]
+                },
+                {
+                    "name": "Mayo-Banyo",
+                    "headquarter": "Banyo",
+                    "subdivisions": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Mbéré",
+                    "headquarter": "meiganga",
+                    "subdivisions": [
+                        "Dir",
+                        "Djohong",
+                        "Meïganga",
+                        "Ngaoui"
+                    ]
+                },
+                {
+                    "name": "Vina",
+                    "headquarter": "Ngaoundéré",
+                    "subdivisions": [
+                        "Belel",
+                        "Mbe",
+                        "Nganha",
+                        "Ngaoundéré (urban)",
+                        "Ngaoundéré (rural)",
+                        "Nyambaka",
+                        "Martap"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Centre",
+            "code": "CE",
+            "headquarter": "Yaounde",
+            "divisions": [
+                {
+                    "name": "Haute-Sanaga",
+                    "headquarter": "Nanga-Eboko",
+                    "subdivisions": [
+                        "Bibey",
+                        "Lembe-Yezoum",
+                        "Mbandjock",
+                        "Minta",
+                        "Nanga-Eboko",
+                        "Nkoteng",
+                        "Nsem"
+                    ]
+                },
+                {
+                    "name": "Lekié",
+                    "headquarter": "Monatele",
+                    "subdivisions": [
+                        "Batchenga",
+                        "Ebebda",
+                        "Elig-Mfomo",
+                        "Evodoula",
+                        "Lobo",
+                        "Monatélé",
+                        "Obala",
+                        "Okola",
+                        "Sa'a"
+                    ]
+                },
+                {
+                    "name": " Mbam-et-Inoubou",
+                    "headquarter": "Bafia",
+                    "subdivisions": [
+                        "Bafia",
+                        "Bokito",
+                        "Deuk",
+                        "Kiiki",
+                        " Kon-Yambetta",
+                        "Makénéné",
+                        "Ndikiniméki",
+                        "Nitoukou",
+                        "Ombessa"
+                    ]
+                },
+                {
+                    "name": "Mbam-et-Kim",
+                    "headquarter": "Ntui",
+                    "subdivisions": [
+                        "Mbangassina",
+                        "Ngambè-Tikar",
+                        "Ngoro",
+                        "Ntui",
+                        "Yoko"
+                    ]
+                },
+                {
+                    "name": "Méfou-et-Afamba",
+                    "headquarter": "Mfou",
+                    "subdivisions": [
+                        "Afanloum",
+                        "Awaé",
+                        "Edzendouan",
+                        "Esse",
+                        "Mfou",
+                        "Nkolafamba",
+                        "Olanguina",
+                        "Soa"
+                    ]
+                },
+                {
+                    "name": "Méfou-et-Akono",
+                    "headquarter": "Ngoumou",
+                    "subdivisions": [
+                        "Akono",
+                        "Bikok",
+                        "Mbankomo",
+                        "Ngoumou"
+                    ]
+                },
+                {
+                    "name": "Mfoundi",
+                    "headquarter": "Yaounde",
+                    "subdivisions": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "name": "Nyong-et-Kéllé",
+                    "headquarter": "Éséka",
+                    "subdivisions": [
+                        "Biyouha",
+                        " Bondjock",
+                        "Bot-Makak",
+                        "Dibang",
+                        "Éséka",
+                        "Makak",
+                        "Matomb",
+                        "Messondo",
+                        "Ngog-Mapubi",
+                        "Ngui-Bassal"
+                    ]
+                },
+                {
+                    "name": "Nyong-et-Mfoumou",
+                    "headquarter": "Akonolinga",
+                    "subdivisions": [
+                        "Akonolinga",
+                        "Ayos",
+                        " Endom",
+                        "Kobdombo",
+                        " Mengang"
+                    ]
+                },
+                {
+                    "name": "Nyong-et-So'o",
+                    "headquarter": "Mbalmayo",
+                    "subdivisions": [
+                        "Akoeman",
+                        "Dzeng",
+                        "Mbalmayo",
+                        "Mengueme",
+                        "Ngomedzap",
+                        "Nkolmetet"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "East",
+            "code": "E",
+            "headquarter": "Bertoua",
+            "divisions": [
+                {
+                    "name": "Boumba-et-Ngoko",
+                    "headquarter": "Yokadouma",
+                    "subdivisions": [
+                        "Gari-Gombo",
+                        "Moloundou",
+                        "Salapoumbé",
+                        "Yokadouma"
+                    ]
+                },
+                {
+                    "name": "Haut-Nyong",
+                    "headquarter": "Abong-Mbang",
+                    "subdivisions": [
+                        "Abong-Mbang",
+                        "Angossas",
+                        "Atok",
+                        "Dimako",
+                        "Doumaintang",
+                        "Doumé",
+                        "Lomié",
+                        "Mboma",
+                        "Messamena",
+                        "Messok",
+                        "Mindourou",
+                        "Ngoyla",
+                        "Nguelemendouka",
+                        "Somalomo"
+                    ]
+                },
+                {
+                    "name": "Kadey",
+                    "headquarter": "Batouri",
+                    "subdivisions": [
+                        "Batouri",
+                        "Kentzou",
+                        "Kette",
+                        "Mbang",
+                        "Ndelele",
+                        "Nguelebok",
+                        "Ouli"
+                    ]
+                },
+                {
+                    "name": "Lom-et-Djerem",
+                    "headquarter": "Bertoua",
+                    "subdivisions": [
+                        "Bélabo",
+                        "Bertoua",
+                        "Bétaré-Oya",
+                        "Diang",
+                        "Garoua-Boulaï",
+                        "Mandjou",
+                        "Ngoura"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Far North",
+            "code": "FN",
+            "headquarter": "Maroua",
+            "divisions": [
+                {
+                    "name": "Diamaré",
+                    "headquarter": "Maroua",
+                    "subdivisions": [
+                        "Bogo",
+                        "Dargala",
+                        "Gawaza",
+                        "Maroua (urban)",
+                        "Maroua (rural)",
+                        "Meri",
+                        "Ndoukoula",
+                        "Petté"
+                    ]
+                },
+                {
+                    "name": "Logone-et-Chari",
+                    "headquarter": "Kousseri",
+                    "subdivisions": [
+                        "Blangoua",
+                        "Darak",
+                        "Fotokol",
+                        "Goulfey",
+                        "Hile-Alifa",
+                        "Kousséri",
+                        "Logone-Birni",
+                        "Makary",
+                        "Waza",
+                        "Zina"
+                    ]
+                },
+                {
+                    "name": "Mayo-Danay",
+                    "headquarter": "Yagoua",
+                    "subdivisions": [
+                        " Datcheka",
+                        "Gobo",
+                        "Gueme",
+                        "Guere",
+                        "Kai-Kai",
+                        "Kalfou",
+                        "Kay-Hay",
+                        "Maga",
+                        "Tchati-Bali",
+                        "Wina",
+                        "Yagoua"
+                    ]
+                },
+                {
+                    "name": "Mayo-Kani",
+                    "headquarter": "Kaélé",
+                    "subdivisions": [
+                        "Dziguilao",
+                        "Guidiguis",
+                        "Kaélé",
+                        "Mindif",
+                        "Moulvoudaye",
+                        "Moutourwa",
+                        "Touloum"
+                    ]
+                },
+                {
+                    "name": "Mayo-Sava",
+                    "headquarter": "Mora",
+                    "subdivisions": [
+                        "Kolofata",
+                        "Mora",
+                        "Tokombéré"
+                    ]
+                },
+                {
+                    "name": "Mayo-Tsanaga",
+                    "headquarter": "Mokolo",
+                    "subdivisions": [
+                        "Bourrha",
+                        "Hina",
+                        "Koza",
+                        "Mogodé",
+                        "Mokolo",
+                        "Mozogo",
+                        "Souledé-roua"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Littoral",
+            "code": "LI",
+            "headquarter": "Douala",
+            "divisions": [
+                {
+                    "name": "Moungo",
+                    "headquarter": "Nkongsamba",
+                    "subdivisions": [
+                        "Baré",
+                        "Bonaléa",
+                        "Dibombari",
+                        "Ebone",
+                        "Loum",
+                        "Manjo",
+                        "Mbanga",
+                        "Melong",
+                        "Mombo",
+                        "Nkongsamba 1",
+                        "Nkongsamba 2",
+                        "Nkongsamba 3",
+                        "Penja"
+                    ]
+                },
+                {
+                    "name": "Nkam",
+                    "headquarter": "Yabassi",
+                    "subdivisions": [
+                        "Ndobian",
+                        "Nkondjock",
+                        "Yabassi",
+                        "Yingui"
+                    ]
+                },
+                {
+                    "name": "Sanaga-Maritime",
+                    "headquarter": "Édéa",
+                    "subdivisions": [
+                        "Dizangué",
+                        "Dibamba",
+                        "Édéa (urban)",
+                        "Édéa (rural)",
+                        "Massock",
+                        "Mouanko",
+                        "Ndom",
+                        "Ngambe",
+                        "Ngwei",
+                        "Nyanon",
+                        "Pouma"
+                    ]
+                },
+                {
+                    "name": "Wouri",
+                    "headquarter": "Douala",
+                    "subdivisions": [
+                        "Douala I (Bonanjo)",
+                        "Douala II (New Bell)",
+                        "Douala III (Logbaba)",
+                        "Douala IV (Bonassama)",
+                        "Douala V (Kotto)",
+                        "Douala VI (Manoka)"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "North",
+            "code": "N",
+            "headquarter": "Garoua",
+            "divisions": [
+                {
+                    "name": "Bénoué",
+                    "headquarter": "Garoua",
+                    "subdivisions": [
+                        "Bashéo",
+                        "Bibemi",
+                        "Dembo",
+                        "Garoua (urban)",
+                        "Garoua (rural)",
+                        "Gashiga",
+                        "Lagdo",
+                        "Mayo Hourna",
+                        "Ngong",
+                        "Pitoa",
+                        "Touroua"
+                    ]
+                },
+                {
+                    "name": "Faro",
+                    "headquarter": "Poli",
+                    "subdivisions": [
+                        "Beka",
+                        "Poli (urban)",
+                        "Poli (rural)"
+                    ]
+                },
+                {
+                    "name": "Mayo-Louti",
+                    "headquarter": "Guider",
+                    "subdivisions": [
+                        "Figuil",
+                        "Guider",
+                        "Mayo-Oulo"
+                    ]
+                },
+                {
+                    "name": "Mayo-Rey",
+                    "headquarter": "Tcholliré",
+                    "subdivisions": [
+                        "Mandingring",
+                        "Tcholliré",
+                        "Touboro",
+                        "Rey Bouba"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Northwest",
+            "code": "NW",
+            "headquarter": "Bamenda",
+            "divisions": [
+                {
+                    "name": "Boyo",
+                    "headquarter": "Fundong",
+                    "subdivisions": [
+                        "Belo",
+                        "Bum",
+                        "Fundong",
+                        "Njinikom"
+                    ]
+                },
+                {
+                    "name": "Bui",
+                    "headquarter": "Kumbo",
+                    "subdivisions": [
+                        "Elak-Oku",
+                        "Jakiri",
+                        "Kumbo (urban)",
+                        "Kumbo (rural)",
+                        "Mbiame",
+                        "Nkum",
+                        "Nkor"
+                    ]
+                },
+                {
+                    "name": "Donga-Mantung",
+                    "headquarter": "Nkambé",
+                    "subdivisions": [
+                        "Ako",
+                        "Misaje",
+                        "Ndu",
+                        "Nkambé",
+                        "Nwa"
+                    ]
+                },
+                {
+                    "name": "Menchum",
+                    "headquarter": "Wum",
+                    "subdivisions": [
+                        "Benakuma",
+                        "Furu-Awa",
+                        "Wum",
+                        "Zhoa"
+                    ]
+                },
+                {
+                    "name": "Mezam",
+                    "headquarter": "Bamenda",
+                    "subdivisions": [
+                        "Bafut",
+                        "Bali",
+                        "Bamenda 1st",
+                        "Bamenda 2nd",
+                        "Bamenda 3rd",
+                        "Santa",
+                        "Tubah"
+                    ]
+                },
+                {
+                    "name": "Momo",
+                    "headquarter": "Mbengwi",
+                    "subdivisions": [
+                        "Andek",
+                        "Batibo",
+                        "Mbengwi",
+                        "Njikwa",
+                        "Widikum-Boffe"
+                    ]
+                },
+                {
+                    "name": "Ngo-ketunjia",
+                    "headquarter": "Ndop",
+                    "subdivisions": [
+                        "Ndop",
+                        "Balikumbat",
+                        "Babessi"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "South",
+            "code": "S",
+            "headquarter": "Ebolowa",
+            "divisions": [
+                {
+                    "name": "Dja-et-Lobo",
+                    "headquarter": "Sangmélima ",
+                    "subdivisions": [
+                        "Bengbis",
+                        "Djoum",
+                        "Meyomessala",
+                        "Meyomessi",
+                        "Mintom",
+                        "Oveng",
+                        "Sangmélima (urban)",
+                        "Sangmélima (rural)",
+                        "Zoétélé"
+                    ]
+                },
+                {
+                    "name": "Mvila",
+                    "headquarter": "Ebolowa",
+                    "subdivisions": [
+                        "Biwong-Bane",
+                        "Biwong-Bulu",
+                        "Ebolowa (urban)",
+                        "Ebolowa (rural)",
+                        "Efoulan",
+                        "Mengong",
+                        "Mvangane",
+                        "Ngoulemakong"
+                    ]
+                },
+                {
+                    "name": "Océan",
+                    "headquarter": "Kribi",
+                    "subdivisions": [
+                        " Akom II",
+                        "Bipindi",
+                        "Campo",
+                        "Kribi (urban)",
+                        "Kribi (rural)",
+                        "Lokundje",
+                        "Lolodorf",
+                        "Mvengue",
+                        "Niete"
+                    ]
+                },
+                {
+                    "name": "Vallée-du-Ntem",
+                    "headquarter": "Ambam",
+                    "subdivisions": [
+                        "Ambam",
+                        "Ma'an",
+                        " Olamze"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "South West",
+            "code": "SW",
+            "headquarter": "Buea",
+            "divisions": [
+                {
+                    "name": "Fako",
+                    "headquarter": "Limbe",
+                    "subdivisions": [
+                        "Buea",
+                        "Limbe 1",
+                        "Limbe 2",
+                        "Limbe 3",
+                        "Muyuka",
+                        "Tiko",
+                        "West Coast"
+                    ]
+                },
+                {
+                    "name": "Koupé-Manengouba",
+                    "headquarter": "Bangem",
+                    "subdivisions": [
+                        "Bangem",
+                        "Tombel",
+                        "Nguti"
+                    ]
+                },
+                {
+                    "name": "Lebialem",
+                    "headquarter": "Menji",
+                    "subdivisions": [
+                        "Menji",
+                        "Alou",
+                        "Wabane"
+                    ]
+                },
+                {
+                    "name": "Manyu",
+                    "headquarter": "Mamfe",
+                    "subdivisions": [
+                        "Akwaya",
+                        "Eyumojock",
+                        "Upper Bayang",
+                        "Mamfe central"
+                    ]
+                },
+                {
+                    "name": "Meme",
+                    "headquarter": "Kumba",
+                    "subdivisions": [
+                        "Konye",
+                        "Kumba",
+                        "Mbonge",
+                        "Meme"
+                    ]
+                },
+                {
+                    "name": "Ndian",
+                    "headquarter": "Mundemba",
+                    "subdivisions": [
+                        "Bamuso",
+                        "Dikome-Balue",
+                        "Ekondo-Titi",
+                        "Idabato",
+                        "Isanguele",
+                        "Kombo-Abedimo",
+                        "Kombo-Idinti",
+                        "Mundemba",
+                        "Toko"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "West",
+            "code": "W",
+            "headquarter": "Bafoussam",
+            "divisions": [
+                {
+                    "name": "Bamboutos",
+                    "headquarter": "Mbouda",
+                    "subdivisions": [
+                        "Babadjou",
+                        "Batcham",
+                        "Galim",
+                        "Mbouda"
+                    ]
+                },
+                {
+                    "name": "Haut-Nkam",
+                    "headquarter": "Bafang",
+                    "subdivisions": [
+                        "Bana",
+                        "Bafang (urban)",
+                        "Bafang (rural)",
+                        "Bandja",
+                        "Banka",
+                        "Kékem",
+                        "Bakou",
+                        "Batcheu"
+                    ]
+                },
+                {
+                    "name": "Hauts-Plateaux",
+                    "headquarter": "Baham",
+                    "subdivisions": [
+                        "Baham",
+                        "Bamendjou",
+                        "Bangou",
+                        "Batié"
+                    ]
+                },
+                {
+                    "name": "Koung-Khi",
+                    "headquarter": "Bandjoun",
+                    "subdivisions": [
+                        "Bayangam",
+                        "Bandjoun",
+                        "Demding (or Demdeng",
+                        "Bandrefam",
+                        "Batoufam"
+                    ]
+                },
+                {
+                    "name": "Menoua",
+                    "headquarter": "Dschang",
+                    "subdivisions": [
+                        "Dschang (urban)",
+                        "Dschang (rural)",
+                        "Fokoué",
+                        "Fongo-Tongo",
+                        "Nkong-Zem",
+                        "Penka-Michel",
+                        "Santchou"
+                    ]
+                },
+                {
+                    "name": "Mifi",
+                    "headquarter": "Bafoussam",
+                    "subdivisions": [
+                        "Bafoussam (Urban)",
+                        "Bafoussam (Rural)",
+                        "Bamougoum",
+                        "Lafé-Baleng"
+                    ]
+                },
+                {
+                    "name": "Ndé",
+                    "headquarter": "Bangangté",
+                    "subdivisions": [
+                        "Bangangté",
+                        "Bassamba ",
+                        "Bazou",
+                        "Tonga",
+                        "Balengou"
+                    ]
+                },
+                {
+                    "name": "Noun",
+                    "headquarter": "Foumban",
+                    "subdivisions": [
+                        "Bangourain",
+                        "Foumban (urban)",
+                        "Foumbot",
+                        "Kouoptamo",
+                        "Koutaba",
+                        "Magba",
+                        "Malentouen",
+                        "Massangam",
+                        "Njimom"
+                    ]
+                }
+            ]
+        }
     ]
-    
-    }
-    
+}
