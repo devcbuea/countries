@@ -41,7 +41,7 @@
     
     "headquarter": "Banyo",
     
-    "subdivisions": ["", "", "", ""]
+    "subdivisions": ["Bankim", "Banyo", "Mayo-Darlé"]
     
     },
     
@@ -51,7 +51,7 @@
     
     "headquarter": "meiganga",
     
-    "subdivisions": ["", "", "", ""]
+    "subdivisions": ["Dir", "Djohong", "Meiganga", "Ngaoui"]
     
     },
     
@@ -145,7 +145,7 @@
             
             "headquarter": "Yaounde",
             
-            "subdivisions": ["", "", "", "", "", "", "", "", ""]
+            "subdivisions": ["Yaounde I(Nlongkak)", "Yaounde II(Tsinga)", "Yaounde III(Efoulan)", "Yaounde IV(Kondengui)", "Yaounde V(Essos)", "Yaounde VI(Biyem-Assi)", "Yaounde VII(Nkolbisson)"]
             
             },
             {
@@ -351,15 +351,15 @@
                     
                     "name": "Wouri",
                     
-                    "headquarter": "",
-                    
-                    "subdivisions": ["", "", "", ""]
+                    "headquarter": "Douala",
+
+                    "subdivisions": ["Douala I(Bonanjo)", "Douala II(New Bell)", "Douala III(Logbaba)", "Douala IV(Bonassama)", "Douala V(Kotto)",  "Douala VI(Manoka)"]
                     
                     }
                     
                     ]
                     
-                    },    
+                    },
                     {
     
                         "name": "North",
